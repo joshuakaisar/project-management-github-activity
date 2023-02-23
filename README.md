@@ -92,3 +92,13 @@ Collaborating on GitHub:
 13.  update your local main branch with the changes from the merge by doing git pull origin main
 14. Repeat again, and again, and again
 
+### Consolidated List
+#### Things I don't know
+1. I don't know how docker works
+2. I don't understand how this class is structured
+#### Things I want to know
+1. I learned hot to use git project boards
+2. I want to know how to use Flask and the MVC pattern
+#### Things I know
+1. I know how to make websites and web apps with HTML, CSS, and Javascript
+2. I know how to use Git and GitHub
